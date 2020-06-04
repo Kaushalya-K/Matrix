@@ -1,3 +1,4 @@
+//upper triangular
 #include <stdio.h>
 #include <stdlib.h>
 
